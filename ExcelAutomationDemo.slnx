@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExcelAutomationDemo/ExcelAutomationDemo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExcelAutomationDemo.Tests/ExcelAutomationDemo.Tests.csproj" />
+  </Folder>
+</Solution>
