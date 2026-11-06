@@ -21,7 +21,13 @@ C# / .NET 10 Excel automation demo: merges messy branch reports into one formatt
 
 ## 執行畫面
 
-<!-- 截圖：docs/images/excel-before.png（分店月報，含格式問題）、docs/images/excel-after.png（彙總報表） -->
+**原始月報**（每家分店一份，以台北店為例）
+
+![台北店 2026 年 10 月銷售月報](docs/images/excel-before.png)
+
+**一鍵產出的彙總報表**（總覽工作表）
+
+![彙總報表：總覽工作表](docs/images/excel-after.png)
 
 ```text
 已產生 3 份 2026-10 範例月報：
