@@ -1,6 +1,6 @@
 # excel-automation-demo：多份 Excel 一鍵彙總
 
-![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/Marc-YULIN/excel-automation-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Marc-YULIN/excel-automation-demo/actions/workflows/ci.yml) ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 C# / .NET 10 Excel automation demo: merges messy branch reports into one formatted summary workbook in one click.
 
